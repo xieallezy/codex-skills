@@ -1,0 +1,4 @@
+interface:
+  display_name: "伴读学习卡 PPT"
+  short_description: "按既有 PPT 模板制作每周伴读学习卡，只替换内容并保留版式。"
+  default_prompt: "按现有模板制作下一周伴读学习卡。"
