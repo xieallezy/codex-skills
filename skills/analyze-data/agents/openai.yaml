@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Data"
+  short_description: "Analyze spreadsheets with a reliable workflow"
+  default_prompt: "Use $analyze-data to inspect this spreadsheet, clarify the business definitions, build appropriate analysis, and create a validated presentation-ready output."
