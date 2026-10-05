@@ -1,0 +1,6 @@
+interface:
+  display_name: "大语文钩子故事"
+  short_description: "生成反常识开头的大语文短视频故事文案与分镜"
+  default_prompt: "使用 $yuwen-story-hook，先为大语文短视频故事生成几条第一句话钩子。"
+policy:
+  allow_implicit_invocation: false
